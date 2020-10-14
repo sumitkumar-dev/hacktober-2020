@@ -20,4 +20,15 @@ export const contributers={
             linkedin:'https://www.linkedin.com/in/sumit-vadodaria-9b7709123/'
         }
     },
+    
+     'sumitkumar-dev':{
+        name: 'Sumit Kumar',
+        occupation: 'UI/UX Designer',
+        featureImageURL: '',
+        socialMediaURLs: {
+            instagram:'',
+            github:'',
+            linkedin:''
+        }
+    },
 }
